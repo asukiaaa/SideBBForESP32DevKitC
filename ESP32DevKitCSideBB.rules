@@ -1,5 +1,5 @@
 
-(rules PCB esp32devkit-side-bread-board
+(rules PCB ESP32DevKitCSideBB
   (snap_angle 
     fortyfive_degree
   )
