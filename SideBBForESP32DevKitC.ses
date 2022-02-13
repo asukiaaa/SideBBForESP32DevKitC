@@ -1,6 +1,6 @@
 
-(session "ESP32DevKitCSideBB.ses"
-  (base_design "ESP32DevKitCSideBB.dsn")
+(session "SideBBForESP32DevKitC.ses"
+  (base_design "SideBBForESP32DevKitC.dsn")
   (placement
     (resolution um 10)
     (component "Connector:NS-Tech_Grove_1x04_P2mm_Vertical"

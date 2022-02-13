@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32DevKitCSideBB.kicad_pro",
+    "filename": "SideBBForESP32DevKitC.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "ESP32DevKitCSideBB.dsn",
+      "specctra_dsn": "SideBBForESP32DevKitC.dsn",
       "step": "",
       "vrml": ""
     },

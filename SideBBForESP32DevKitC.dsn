@@ -1,4 +1,4 @@
-(pcb "/home/asuki/kicad_projects/ESP32DevKitCSideBB/ESP32DevKitCSideBB.dsn"
+(pcb "/home/asuki/kicad_projects/SideBBForESP32DevKitC/SideBBForESP32DevKitC.dsn"
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
