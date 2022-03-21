@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 593)
+    (start_pass_no 396)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -53,7 +53,7 @@
     "kicad_default" "Via[0-1]_800:400_um-kicad_default"
   )
   (class default
-    GND "/22_SCL" "/21_SDA" VCC +3V3 "/1_TX0" "/3_RX0" "/23_MOSI"
+    "/22_SCL" "/21_SDA" VCC GND +3V3 "/1_TX0" "/3_RX0" "/23_MOSI"
     "/19_MISO" "/18_SCK" /5 "/17_TX2" "/16_RX2" /4 /0 /2
     /15 /13 /12 /14 /27 /26 /25 /33
     /32 /35 /34 "/39_vn" "/36_vp" "/en_reset" "unconnected-(U1-Pad16)" "unconnected-(U1-Pad17)"
