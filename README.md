@@ -7,6 +7,8 @@ Run the following command to use submodule.
 git submodule update --init
 ```
 
+Then open *.kicad_pro with using KiCad.
+
 ## Where to buy
 
 [SideBBForESP32DevKitC - スイッチサイエンス](https://www.switch-science.com/catalog/8071/)
