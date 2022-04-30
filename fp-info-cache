@@ -1,4 +1,4 @@
-129830700309182
+131481987108385
 asukiaaa-kicad-footprints
 1x02_P2.54mm_Pads
 surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
@@ -209,6 +209,13 @@ https://www.molex.com/pdm_docs/sd/389690003_sd.pdf
 0
 3
 3
+asukiaaa-kicad-footprints
+MountingHole_3.2mm_M3_bare
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
 asukiaaa-kicad-footprints
 MountingHole_3.5mm_bare
 Mounting Hole 3.5mm, no annular
